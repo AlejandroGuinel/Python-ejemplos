@@ -22,3 +22,10 @@ import math
 raiz = math.sqrt(25)
 
 print("La raíz cuadrada de 25 es:", raiz)
+
+
+
+# proyecto de lista peliculas de netflix
+
+#peliculas =[{pelicula1},{pelicula2}...]
+#int()
